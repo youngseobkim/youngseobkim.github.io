@@ -107,7 +107,7 @@ author:
   name             : "YOUNGSEOB"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "코딩 **왕초보** 입니다."
-  location         : "Somewhere"
+  location         : "서울"
   email            :
   links:
     - label: "Email"
